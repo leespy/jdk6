@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="signed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk/test/java/util/jar/JarInputStream/signed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

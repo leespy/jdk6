@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/BatikSVGProxy/BatikSVGProxy.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/BatikSVGProxy/BatikSVGProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Bytecodes/Bytecodes.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Bytecodes/Bytecodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Coordinator/Coordinator.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Coordinator/Coordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Data/Data.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Data/Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Difference/Difference.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Difference/Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Filter/Filter.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Filter/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/FilterWindow/FilterWindow.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/FilterWindow/FilterWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Graph/Graph.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/HierarchicalLayout/HierarchicalLayout.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/HierarchicalLayout/HierarchicalLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Layout/Layout.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Layout/Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/LogCompilation/LogCompilation.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/LogCompilation/LogCompilation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/NetworkConnection/NetworkConnection.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/NetworkConnection/NetworkConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/RhinoScriptEngineProxy/RhinoScriptEngineProxy.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/RhinoScriptEngineProxy/RhinoScriptEngineProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/ServerCompiler/ServerCompiler.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/ServerCompiler/ServerCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Settings/Settings.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Settings/Settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Util/Util.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/Util/Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/View/View.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/IdealGraphVisualizer/View/View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/agent/src/agent.iml" filepath="$PROJECT_DIR$/hotspot/agent/src/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/agent/agent1.iml" filepath="$PROJECT_DIR$/hotspot/agent/agent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/applets/applets.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/applets/applets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/test/tools/apt/apt.iml" filepath="$PROJECT_DIR$/langtools/test/tools/apt/apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/test/com/com.iml" filepath="$PROJECT_DIR$/langtools/test/com/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/test/compiler/compiler.iml" filepath="$PROJECT_DIR$/hotspot/test/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corba/src/corba.iml" filepath="$PROJECT_DIR$/corba/src/corba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/demo.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/solaris/demo/demo1.iml" filepath="$PROJECT_DIR$/jdk/src/solaris/demo/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/doc/doc.iml" filepath="$PROJECT_DIR$/jdk/src/share/doc/doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/test/gc/gc.iml" filepath="$PROJECT_DIR$/hotspot/test/gc/gc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/java2d/java2d.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/java2d/java2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/jdk.iml" filepath="$PROJECT_DIR$/jdk/jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/jfc/jfc.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/jfc/jfc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/sample/jmx/jmx.iml" filepath="$PROJECT_DIR$/jdk/src/share/sample/jmx/jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/jvmti/jvmti.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/jvmti/jvmti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/make/make.iml" filepath="$PROJECT_DIR$/hotspot/make/make.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corba/make/make1.iml" filepath="$PROJECT_DIR$/corba/make/make1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/make/make2.iml" filepath="$PROJECT_DIR$/langtools/make/make2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/management/management.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/management/management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/test/tools/apt/mirror/mirror.iml" filepath="$PROJECT_DIR$/langtools/test/tools/apt/mirror/mirror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/sample/nio/nio.iml" filepath="$PROJECT_DIR$/jdk/src/share/sample/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openjdk-6-src-b27-26_oct_2012.iml" filepath="$PROJECT_DIR$/.idea/openjdk-6-src-b27-26_oct_2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/make/tools/reorder/reorder.iml" filepath="$PROJECT_DIR$/jdk/make/tools/reorder/reorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/test/runtime/runtime.iml" filepath="$PROJECT_DIR$/hotspot/test/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/src/share/sample/sample.iml" filepath="$PROJECT_DIR$/langtools/src/share/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/demo/scripting/scripting.iml" filepath="$PROJECT_DIR$/jdk/src/share/demo/scripting/scripting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/sample/scripting/scripting1.iml" filepath="$PROJECT_DIR$/jdk/src/share/sample/scripting/scripting1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/share.iml" filepath="$PROJECT_DIR$/jdk/src/share/share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/src/share/share1.iml" filepath="$PROJECT_DIR$/langtools/src/share/share1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/make/tools/sharing/sharing.iml" filepath="$PROJECT_DIR$/jdk/make/tools/sharing/sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/solaris/solaris.iml" filepath="$PROJECT_DIR$/jdk/src/solaris/solaris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/make/sun/sun.iml" filepath="$PROJECT_DIR$/jdk/make/sun/sun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/agent/test/test.iml" filepath="$PROJECT_DIR$/hotspot/agent/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/make/tools/tools.iml" filepath="$PROJECT_DIR$/langtools/make/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langtools/test/tools/tools1.iml" filepath="$PROJECT_DIR$/langtools/test/tools/tools1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/make/tools/tools2.iml" filepath="$PROJECT_DIR$/jdk/make/tools/tools2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/tools/tools3.iml" filepath="$PROJECT_DIR$/hotspot/src/share/tools/tools3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/share/sample/vm/vm.iml" filepath="$PROJECT_DIR$/jdk/src/share/sample/vm/vm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot/src/share/vm/vm1.iml" filepath="$PROJECT_DIR$/hotspot/src/share/vm/vm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/src/windows/windows.iml" filepath="$PROJECT_DIR$/jdk/src/windows/windows.iml" />
+    </modules>
+  </component>
+</project>
